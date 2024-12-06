@@ -1,0 +1,11 @@
+{
+  "name": "adventjs-2k24",
+  "version": "1.0.0",
+  "description": "challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deimos",
+  "license": "ISC"
+}
